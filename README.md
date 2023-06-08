@@ -1,7 +1,7 @@
 # Disneyland and Universal Studios Reviews Data Science Analysis
 Émilie Brazeau, Nicholas Gin, Gordon Tang
 
-<img width="600" alt="Power BI Visualizations and Dashboard" src="https://github.com/ngin102/disneyland-and-universal-studios-reviews-analysis/assets/71230219/1c87f8c3-57c3-4df4-923e-4a69c47bae16">
+<img width="600" alt="Power BI Visualizations and Dashboard" src="https://github.com/ngin102/disneyland-and-universal-studios-reviews-analysis/assets/71230219/58dab393-2040-485f-81a6-81c4ec706fe8">
 
 ## Description
 For this project, we enrich the "Disneyland Reviews" dataset with the "Reviews of Universal Studios" dataset. The goal of this project is to apply many data science principles to find trends in reviews across different Disneyland and Universal Studios branches. We also use machine learning models to see if we can predict the rating of a review at a specific Disneyland or Universal Studios branch, given a set of existing reviews with ratings; note that the models used in this project are not NLP models - this had an impact on our their performance. 
