@@ -1,4 +1,4 @@
-# Disneyland & Universal Studios Review Data Science Analysis
+# Disneyland & Universal Studios Reviews Data Science Analysis
 Émilie Brazeau, Nicholas Gin, Gordon Tang
 
 ## Description
