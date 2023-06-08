@@ -10,7 +10,7 @@ Our work is split between 4 phases and presentation, which includes our data sta
 
 ## Table of Contents
 * **[Phase 1: Initial Planning and Dimensional Model](phase1)**: Files for Phase 1.
-  * **[Initial Planning and Dimensional Model (.pdf)](phase_1.pdf)**: Initial planning and dimensional model for the data mart (note that this plan was adjusted in later phases).
+  * **[Initial Planning and Dimensional Model (.pdf)](phase1/phase_1.pdf)**: Initial planning and dimensional model for the data mart (note that this plan was adjusted in later phases).
   
 * **[Phase 2: Data Staging, ETL, and Building the Data Mart](phase2)**: Files for Phase 2.
   * **[Dimensional Model (.pdf)](phase2/dimensional_model.pdf)**: Updated dimensional model from the previous phase.
