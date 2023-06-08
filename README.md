@@ -1,4 +1,4 @@
-# Disneyland & Universal Studios Reviews Data Science Analysis
+# Disneyland and Universal Studios Reviews Data Science Analysis
 Émilie Brazeau, Nicholas Gin, Gordon Tang
 
 <img width="600" alt="Power BI Visualizations and Dashboard" src="https://github.com/ngin102/disneyland-and-universal-studios-reviews-analysis/assets/71230219/1c87f8c3-57c3-4df4-923e-4a69c47bae16">
@@ -24,7 +24,7 @@ Our work is split between 4 phases and presentation, which includes our data sta
   * **[Staged data (.csv)](phase2/staged_data.csv)**: Our data (after extracting and transforming) in a state where it can be loaded into the data mart.
   * **[Exported dimension tables (.csv)](phase2/exported_dimension_tables)**: Exported dimension tables from pgAdmin 4 after building the data mart using the provided queries.
   
-* **[Phase 3 Part A: Queries for the DataM art](phase3_partA)**: Files for Phase 3 Part A.
+* **[Phase 3 Part A: Queries for the Data Mart](phase3_partA)**: Files for Phase 3 Part A.
    * **[Queries and Explanations (.pdf)](phase3_partA/queries_and_explanations.pdf)**: 11 queries that can be run on the data mart and explanations for each query (we also show example outputs for each query).
   * **[Script to run queries (.sh)](phase3_partA/run_queries.sh)**: **Replace staged_data.csv filepath in the .sh file before using it.** A script to run the queries; it assumes you have not setup the data mart yet and that PostgreSQL has already been installed on your machine.
       * **[Staged data for queries (.csv)](phase4_partA/updated_phase2/staged_data.csv)**: The staged data needed to setup the data mart and run the queries.
